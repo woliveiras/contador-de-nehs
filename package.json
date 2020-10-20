@@ -1,0 +1,12 @@
+{
+  "name": "contador-de-nehs",
+  "version": "1.0.0",
+  "description": "Contador de nés falados durante as lives na Twitch.tv",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html"
+  },
+  "repository": "git@github.com:woliveiras/contador-de-nehs.git",
+  "author": "woliveiras <w.oliveira542@gmail.com>",
+  "license": "MIT"
+}
