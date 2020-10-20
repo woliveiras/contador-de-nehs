@@ -8,5 +8,9 @@
   },
   "repository": "git@github.com:woliveiras/contador-de-nehs.git",
   "author": "woliveiras <w.oliveira542@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
 }
