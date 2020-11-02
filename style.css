@@ -365,11 +365,6 @@ header {
     padding: 10px;
 }
 
-.imagem-contador {
-    width: 50%;
-    max-width: 115px;
-}
-
-#contador-container {
+.contador-container {
     color: red
 }
