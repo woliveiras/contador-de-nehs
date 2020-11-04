@@ -4,7 +4,7 @@
   "description": "Contador de nés falados durante as lives na Twitch.tv",
   "main": "index.js",
   "scripts": {
-    "start": "npx parcel index.html"
+    "start": "parcel index.html"
   },
   "repository": "git@github.com:woliveiras/contador-de-nehs.git",
   "author": "woliveiras <w.oliveira542@gmail.com>",
@@ -12,5 +12,8 @@
   "dependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
   }
 }
