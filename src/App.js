@@ -17,10 +17,10 @@ const App = () => {
 
     useEffect(() => {
         if(!localStorage.getItem('counter')) {
-            localStorage.setItem('counter', 0);
+            localStorage.setItem('counter', 0)
         }
 
-        const storedValue = localStorage.getItem('counter');
+        const storedValue = localStorage.getItem('counter')
 
         setCount(parseInt(storedValue))
     }, [])
